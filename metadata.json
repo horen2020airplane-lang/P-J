@@ -1,0 +1,6 @@
+{
+  "name": "Poria Jam - 3D Tactical Mobile FPS",
+  "description": "Ultra-high-end 3D tactical multiplayer mobile FPS featuring Three.js WebGL2 graphics, PeerJS hotspot multiplayer, dynamic weapons, COD-style sniper optics, and customizable touch HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
